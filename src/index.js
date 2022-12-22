@@ -1,5 +1,5 @@
 // Sprint 1 Makaia - Desarrollado por Víctor Manuel Morales Hoyos
-import "./styles/style.css";
+import "./styles/style.scss";
 
 const DATE_TARGET = new Date('04/13/2023 0:01 AM');
 const SPAN_DAYS = document.querySelector('span#days');
