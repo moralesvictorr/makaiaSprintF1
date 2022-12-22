@@ -16,7 +16,7 @@
     justify-content: center;
     align-items: center;
     gap: 80px; /* Espacio entre titulo y cards */
-    background-image: url(/src/img/bg-stars.svg);
+    background-image: url(https://raw.githubusercontent.com/moralesvictorr/makaiaSprintF1/e82706592c8b0b6a2f9c212f6c3db66504d26caa/src/img/bg-stars.svg);
 }
 
 /* Contenedor de todas las cards */
